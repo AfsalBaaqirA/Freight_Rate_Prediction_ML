@@ -1,0 +1,678 @@
+load_id,date,pickup,delivery,equipment,distance,posted_rate,ratio,direction,reference
+TR-000051,2025-01-01,Los Angeles,Green Bay,Reefer,2202.5,1243.45,0.28336771952084683,low,lane median
+TR-000191,2025-01-02,Tampa,Milwaukee,Dry Van,919.8,704.89,0.3808429297994148,low,lane median
+TR-000295,2025-01-02,Greensboro,Syracuse,Dry Van,685.6,518.31,0.36630279819762784,low,lane median
+TR-000389,2025-01-03,Corpus Christi,Chattanooga,Flatbed,823.0,5485.49,3.0277296178340847,high,equipment+band median
+TR-000440,2025-01-03,Richmond,Charleston,Dry Van,394.9,276.27,0.3121783928126511,low,lane median
+TR-000470,2025-01-04,Phoenix,Jacksonville,Dry Van,2154.3,10854.69,2.622431406294707,high,lane median
+TR-000509,2025-01-04,Las Vegas,Grand Rapids,Flatbed,1976.4,699.41,0.16795175273904697,low,equipment+band median
+TR-000786,2025-01-06,Kansas City,Charleston,Dry Van,861.5,4587.83,2.5218696101790083,high,lane median
+TR-000871,2025-01-06,Tulsa,Baton Rouge,Reefer,305.6,4069.24,4.677205052960614,high,lane median
+TR-000873,2025-01-06,Cincinnati,Lexington,Dry Van,144.0,67.8,0.17326626383848234,low,lane median
+TR-001028,2025-01-07,Dallas,Fort Wayne,Dry Van,970.6,473.34,0.2568634428658693,low,lane median
+TR-001150,2025-01-08,Houston,Baton Rouge,Flatbed,170.3,1359.6,2.627362879854108,high,lane median
+TR-001161,2025-01-08,Tucson,Oklahoma City,Reefer,1012.6,659.89,0.2730512233502564,low,lane median
+TR-001176,2025-01-08,Tucson,Phoenix,Dry Van,260.5,1609.22,2.5919742330046547,high,lane median
+TR-001330,2025-01-09,Harrisburg,Tulsa,Dry Van,1190.5,7100.73,2.8464468667410676,high,lane median
+TR-001352,2025-01-09,Tulsa,Tucson,Dry Van,1260.0,882.08,0.34028038687815965,low,lane median
+TR-001416,2025-01-09,Montgomery,Birmingham,Reefer,198.2,2509.96,4.447173828717757,high,equipment+band median
+TR-001418,2025-01-09,Dallas,Atlanta,Flatbed,613.6,4485.75,3.023827322285843,high,lane median
+TR-001467,2025-01-10,Los Angeles,Syracuse,Reefer,2786.0,24140.21,4.394789042492418,high,lane median
+TR-001490,2025-01-10,Chattanooga,Houston,Dry Van,647.0,438.53,0.31597574697797776,low,lane median
+TR-001556,2025-01-10,El Paso,New York,Dry Van,2415.0,911.44,0.20499861569657,low,equipment+band median
+TR-001629,2025-01-11,Oklahoma City,Greensboro,Dry Van,1121.4,796.19,0.3468245445719379,low,lane median
+TR-001747,2025-01-11,Columbia,Houston,Flatbed,882.9,6394.62,3.172840266265778,high,lane median
+TR-001948,2025-01-13,Baton Rouge,Buffalo,Flatbed,1305.0,1025.04,0.37278450272350877,low,equipment+band median
+TR-001950,2025-01-13,Hartford,Reno,Reefer,2794.2,13918.0,2.4621601961700943,high,lane median
+TR-002031,2025-01-13,Tucson,Houston,Dry Van,1247.6,10270.54,3.9452972190517723,high,lane median
+TR-002041,2025-01-13,Mobile,Dayton,Flatbed,677.3,550.66,0.3569250513401122,low,lane median
+TR-002048,2025-01-13,Mobile,Harrisburg,Dry Van,927.5,5623.85,2.8703016118896416,high,lane median
+TR-002073,2025-01-13,Memphis,Chattanooga,Flatbed,159.5,1572.38,3.599456491204206,high,equipment+band median
+TR-002203,2025-01-14,Raleigh,Las Vegas,Dry Van,2554.1,1347.3,0.29492223830937336,low,lane median
+TR-002219,2025-01-14,Columbia,Tulsa,Flatbed,795.6,4773.73,2.5321892605923537,high,lane median
+TR-002222,2025-01-14,Boston,Jacksonville,Flatbed,1166.1,11210.34,4.2592057069639635,high,lane median
+TR-002224,2025-01-14,Albuquerque,Indianapolis,Dry Van,1344.4,12100.18,4.7308067570524805,high,lane median
+TR-002269,2025-01-15,Atlanta,Providence,Reefer,1137.6,543.71,0.21422113433427056,low,lane median
+TR-002470,2025-01-16,Tucson,Albuquerque,Flatbed,441.5,4989.66,4.197656330369952,high,lane median
+TR-002512,2025-01-16,Buffalo,San Antonio,Flatbed,1644.3,596.04,0.1720370145859737,low,equipment+band median
+TR-002515,2025-01-16,Little Rock,Buffalo,Dry Van,1006.5,9313.19,4.470722757827856,high,lane median
+TR-002663,2025-01-17,Grand Rapids,Reno,Dry Van,1951.9,10436.26,2.796345873619448,high,lane median
+TR-002769,2025-01-18,Amarillo,Las Vegas,Reefer,742.2,4491.82,2.4939675016556335,high,lane median
+TR-002786,2025-01-18,Milwaukee,Richmond,Dry Van,748.1,3582.08,2.3304659753024644,high,lane median
+TR-002804,2025-01-18,Oklahoma City,Birmingham,Dry Van,824.1,3930.74,2.208194257706193,high,lane median
+TR-002841,2025-01-18,Tampa,Chattanooga,Dry Van,568.4,472.64,0.38093710291437305,low,lane median
+TR-002869,2025-01-18,Green Bay,Milwaukee,Flatbed,385.9,2940.51,3.1683508254706387,high,lane median
+TR-002890,2025-01-19,Tucson,Amarillo,Dry Van,622.6,498.79,0.3647834823807376,low,lane median
+TR-002976,2025-01-19,Green Bay,Syracuse,Dry Van,641.6,3937.32,3.0193673912954946,high,lane median
+TR-003029,2025-01-20,Harrisburg,Oklahoma City,Reefer,1489.5,7679.26,2.3473139536330256,high,equipment+band median
+TR-003171,2025-01-20,Providence,Memphis,Dry Van,1316.8,579.12,0.23429097322143172,low,lane median
+TR-003187,2025-01-21,El Paso,Fort Wayne,Reefer,1684.4,12854.51,3.5583277065056707,high,lane median
+TR-003253,2025-01-21,Cincinnati,Syracuse,Flatbed,768.2,528.37,0.33705733354141704,low,lane median
+TR-003295,2025-01-21,Columbia,Louisville,Reefer,379.0,286.44,0.281370153090355,low,lane median
+TR-003354,2025-01-22,Phoenix,Charleston,Reefer,2527.9,22534.65,4.329032715687506,high,lane median
+TR-003527,2025-01-23,Buffalo,Louisville,Flatbed,660.4,366.62,0.23924900189229742,low,equipment+band median
+TR-003533,2025-01-23,Jacksonville,Little Rock,Dry Van,569.1,376.8,0.31123314228869553,low,lane median
+TR-003563,2025-01-23,Corpus Christi,Raleigh,Flatbed,1367.0,726.74,0.27261218710396057,low,lane median
+TR-003583,2025-01-23,Hartford,Greensboro,Reefer,730.7,535.63,0.32528276122555394,low,lane median
+TR-003683,2025-01-24,Richmond,Montgomery,Dry Van,835.3,439.13,0.26964724488711506,low,lane median
+TR-003687,2025-01-24,San Antonio,Charleston,Reefer,1355.4,895.28,0.2954144854039053,low,lane median
+TR-003756,2025-01-24,Boston,Amarillo,Reefer,2313.7,1209.46,0.2530058688176734,low,lane median
+TR-003826,2025-01-25,Washington,St. Louis,Reefer,812.7,589.73,0.31482371944698667,low,equipment+band median
+TR-003880,2025-01-25,Toledo,Madison,Dry Van,343.2,3402.85,4.526185238808787,high,lane median
+TR-003896,2025-01-25,Shreveport,Mobile,Dry Van,303.5,256.13,0.3314791227650009,low,lane median
+TR-003909,2025-01-25,Green Bay,Lubbock,Dry Van,1389.2,8339.05,3.1139123002902753,high,lane median
+TR-003996,2025-01-26,Bakersfield,Jacksonville,Reefer,2185.6,1220.91,0.2587883961286064,low,lane median
+TR-004035,2025-01-26,Memphis,Atlanta,Dry Van,249.7,1518.51,2.3790881315643286,high,lane median
+TR-004042,2025-01-26,Tucson,Baton Rouge,Flatbed,1410.7,9275.66,3.031989475875348,high,lane median
+TR-004076,2025-01-26,Indianapolis,New Orleans,Reefer,558.3,450.2,0.33368994556904014,low,equipment+band median
+TR-004159,2025-01-27,Shreveport,Tampa,Dry Van,502.6,272.58,0.22959139220269856,low,lane median
+TR-004268,2025-01-27,Corpus Christi,Milwaukee,Reefer,1031.1,714.71,0.29076119921257676,low,lane median
+TR-004315,2025-01-28,Harrisburg,Savannah,Dry Van,568.4,3589.02,2.9537308424603728,high,equipment+band median
+TR-004319,2025-01-28,Columbia,Richmond,Dry Van,508.8,319.87,0.29465859129147876,low,lane median
+TR-004389,2025-01-28,Little Rock,Richmond,Dry Van,1068.0,8552.48,3.9825198961604227,high,lane median
+TR-004420,2025-01-28,San Antonio,Columbia,Dry Van,1134.3,5271.0,2.3287025170292814,high,lane median
+TR-004486,2025-01-29,Chattanooga,Memphis,Reefer,168.9,1201.66,2.3006637836929458,high,lane median
+TR-004490,2025-01-29,Dayton,Harrisburg,Dry Van,476.7,5048.45,5.027569466128757,high,lane median
+TR-004543,2025-01-29,Phoenix,Tucson,Reefer,262.9,181.56,0.24716881067118626,low,lane median
+TR-004658,2025-01-30,Baltimore,Reno,Dry Van,2884.1,17688.63,3.4253403872270485,high,lane median
+TR-004675,2025-01-30,Hartford,Baltimore,Reefer,149.3,75.19,0.17518620480987032,low,lane median
+TR-004744,2025-01-30,Phoenix,Jacksonville,Reefer,2212.4,14536.22,3.004650395313874,high,lane median
+TR-004764,2025-01-31,Grand Rapids,Baton Rouge,Reefer,1113.4,553.77,0.22465397367170295,low,lane median
+TR-004780,2025-01-31,Greensboro,Little Rock,Reefer,650.5,5256.86,3.0919749637679055,high,lane median
+TR-004795,2025-01-31,Buffalo,Corpus Christi,Flatbed,1522.6,617.89,0.19259849510777174,low,equipment+band median
+TR-004987,2025-02-01,Richmond,Raleigh,Reefer,256.2,145.34,0.20981296048862363,low,lane median
+TR-004991,2025-02-01,Milwaukee,Richmond,Dry Van,756.5,609.22,0.39195152670310857,low,lane median
+TR-005051,2025-02-01,Raleigh,Reno,Reefer,2642.3,1020.7,0.2037525562216735,low,lane median
+TR-005135,2025-02-02,Washington,Richmond,Flatbed,88.2,809.86,3.2561879388942887,high,lane median
+TR-005194,2025-02-02,Albany,Lexington,Dry Van,1058.4,9080.04,4.419417730095337,high,lane median
+TR-005263,2025-02-03,San Antonio,Boston,Dry Van,2059.5,1261.24,0.3219137108983909,low,lane median
+TR-005449,2025-02-04,Madison,Jacksonville,Dry Van,864.8,654.0,0.36995330928688164,low,lane median
+TR-005524,2025-02-04,Lexington,Richmond,Flatbed,574.8,4790.22,3.5605732327097006,high,lane median
+TR-005546,2025-02-04,Bakersfield,Baton Rouge,Dry Van,1628.9,7772.01,2.4161153792958814,high,lane median
+TR-005683,2025-02-05,Savannah,Reno,Flatbed,2323.1,908.76,0.19549130972502726,low,lane median
+TR-005727,2025-02-05,Albany,Milwaukee,Dry Van,1078.0,6494.7,3.132186506010214,high,lane median
+TR-005828,2025-02-06,Charleston,Atlanta,Dry Van,464.9,2899.13,2.677150775378815,high,lane median
+TR-005901,2025-02-07,Lexington,Richmond,Dry Van,572.2,456.05,0.37235173620638196,low,lane median
+TR-005913,2025-02-07,Nashville,Milwaukee,Dry Van,359.9,214.55,0.260340555741084,low,lane median
+TR-005962,2025-02-07,Grand Rapids,Green Bay,Dry Van,105.5,57.22,0.2048713602306774,low,lane median
+TR-006035,2025-02-07,Savannah,Dayton,Flatbed,582.3,432.56,0.31939755469861836,low,lane median
+TR-006079,2025-02-08,Cincinnati,Lexington,Reefer,150.4,1550.14,3.434204978419788,high,lane median
+TR-006123,2025-02-08,Nashville,Dallas,Dry Van,538.0,2907.97,2.5023342926877863,high,lane median
+TR-006169,2025-02-08,Raleigh,Columbia,Reefer,401.5,2220.18,2.2533271730862507,high,lane median
+TR-006360,2025-02-09,Houston,Baton Rouge,Reefer,178.3,223.44,0.44007888795652683,low,equipment+band median
+TR-006378,2025-02-10,Oklahoma City,Memphis,Dry Van,681.2,4241.97,2.7719909811506644,high,lane median
+TR-006708,2025-02-12,Kansas City,Syracuse,Dry Van,921.6,8091.49,4.517122612727593,high,lane median
+TR-006756,2025-02-12,Philadelphia,Dallas,Flatbed,1502.6,9457.25,2.9870949896479444,high,equipment+band median
+TR-006796,2025-02-12,Charleston,Greensboro,Flatbed,270.3,217.4,0.3024235178892185,low,lane median
+TR-006808,2025-02-12,Milwaukee,New York,Dry Van,948.4,5927.63,3.162369375074375,high,lane median
+TR-006809,2025-02-12,Hartford,Savannah,Dry Van,782.2,4887.74,3.0080974331364216,high,lane median
+TR-006852,2025-02-13,Memphis,Mobile,Flatbed,343.7,2886.92,3.2191315018111153,high,lane median
+TR-006877,2025-02-13,Cincinnati,St. Louis,Dry Van,231.2,2058.1,3.4916607152881616,high,lane median
+TR-006880,2025-02-13,Jacksonville,Detroit,Flatbed,953.4,829.81,0.3953711840674938,low,equipment+band median
+TR-006982,2025-02-14,Fresno,Montgomery,Flatbed,2255.6,9825.71,2.0772534475128936,high,lane median
+TR-007040,2025-02-14,Boston,Harrisburg,Flatbed,538.6,277.63,0.2221473260984057,low,equipment+band median
+TR-007196,2025-02-15,Madison,Dayton,Reefer,305.9,332.21,0.41699493790305386,low,equipment+band median
+TR-007209,2025-02-15,Oklahoma City,Mobile,Dry Van,737.7,561.78,0.34082982920519167,low,lane median
+TR-007242,2025-02-15,Montgomery,Albany,Flatbed,1403.3,10945.08,3.843790381984399,high,lane median
+TR-007297,2025-02-16,Atlanta,San Antonio,Dry Van,879.2,6369.91,3.4835912350148797,high,lane median
+TR-007332,2025-02-16,Lubbock,Toledo,Reefer,1387.1,961.66,0.31565022002140747,low,equipment+band median
+TR-007361,2025-02-16,Corpus Christi,Philadelphia,Flatbed,1739.9,10115.44,2.6555005517859205,high,lane median
+TR-007376,2025-02-16,Tampa,Fresno,Flatbed,2266.3,1206.18,0.262265519792634,low,lane median
+TR-007423,2025-02-16,Tampa,Buffalo,Flatbed,1197.2,605.11,0.24577605213624518,low,lane median
+TR-007455,2025-02-17,Richmond,Nashville,Dry Van,794.0,5737.51,3.486615722996745,high,lane median
+TR-007458,2025-02-17,Shreveport,Houston,Dry Van,246.2,2171.46,3.2913144714800993,high,lane median
+TR-007534,2025-02-17,New Orleans,Buffalo,Flatbed,1156.4,10537.71,4.020691648769618,high,lane median
+TR-007633,2025-02-18,Syracuse,Jacksonville,Dry Van,1003.7,6646.55,3.289529624431724,high,lane median
+TR-007691,2025-02-18,Syracuse,Los Angeles,Dry Van,2810.2,1816.76,0.3714229940071695,low,lane median
+TR-007772,2025-02-19,Oklahoma City,Mobile,Dry Van,703.0,497.44,0.3166915577779241,low,lane median
+TR-007842,2025-02-19,Raleigh,Greensboro,Reefer,353.0,4368.67,4.520152763178669,high,lane median
+TR-007954,2025-02-20,Philadelphia,Syracuse,Reefer,394.2,294.78,0.29481101481929295,low,lane median
+TR-007985,2025-02-20,Kansas City,Los Angeles,Dry Van,1878.5,1268.13,0.35397631044108924,low,lane median
+TR-008052,2025-02-21,Chattanooga,Kansas City,Reefer,418.6,236.63,0.22062395538585503,low,lane median
+TR-008056,2025-02-21,Chattanooga,Milwaukee,Reefer,361.9,3093.85,3.089895643702556,high,lane median
+TR-008156,2025-02-21,Chattanooga,Grand Rapids,Reefer,658.9,383.23,0.2624353628297588,low,lane median
+TR-008204,2025-02-22,Los Angeles,Philadelphia,Flatbed,2994.6,2134.82,0.35806348244923675,low,lane median
+TR-008622,2025-02-24,Nashville,Syracuse,Reefer,929.7,8453.3,4.207920087816889,high,lane median
+TR-009066,2025-02-27,Grand Rapids,Fort Wayne,Reefer,191.9,1427.64,2.615405837195949,high,lane median
+TR-009123,2025-02-28,Memphis,Dallas,Reefer,453.8,310.39,0.2610958340556941,low,lane median
+TR-009138,2025-02-28,Fort Wayne,Toledo,Reefer,105.0,76.54,0.2501520860819247,low,lane median
+TR-009156,2025-02-28,Green Bay,Shreveport,Dry Van,1021.4,7214.86,3.421325641364911,high,lane median
+TR-009387,2025-03-01,Los Angeles,Las Vegas,Flatbed,402.5,3915.85,3.8984892658701282,high,equipment+band median
+TR-009429,2025-03-02,Louisville,Shreveport,Flatbed,510.2,3587.96,2.695760772882318,high,lane median
+TR-009527,2025-03-02,Harrisburg,Kansas City,Dry Van,800.6,5417.77,3.3096901293352667,high,lane median
+TR-009675,2025-03-03,Green Bay,Washington,Flatbed,759.0,646.48,0.3670746251948298,low,equipment+band median
+TR-009695,2025-03-03,Boston,Louisville,Dry Van,1206.3,5417.5,2.304713755564081,high,equipment+band median
+TR-009716,2025-03-03,Grand Rapids,Columbia,Dry Van,737.1,308.14,0.2041543851740991,low,lane median
+TR-009766,2025-03-04,Chattanooga,Phoenix,Reefer,1985.4,10036.5,2.3760270301142605,high,lane median
+TR-009807,2025-03-04,Indianapolis,Richmond,Dry Van,801.8,602.49,0.3800457229639237,low,lane median
+TR-009833,2025-03-04,El Paso,Shreveport,Dry Van,1252.3,12422.22,4.944762155254803,high,lane median
+TR-009877,2025-03-04,Richmond,Savannah,Dry Van,518.6,4109.58,3.6367165026693025,high,lane median
+TR-009978,2025-03-05,Reno,Oklahoma City,Flatbed,1481.2,1105.27,0.3541459072226812,low,equipment+band median
+TR-009984,2025-03-05,Amarillo,Atlanta,Dry Van,1250.7,1010.15,0.39325006981597554,low,lane median
+TR-009990,2025-03-05,Nashville,Albany,Dry Van,1279.0,7768.03,3.1041649602993324,high,lane median
+TR-010000,2025-03-05,Grand Rapids,Boston,Reefer,1069.1,10769.23,4.370295538627355,high,equipment+band median
+TR-010058,2025-03-05,Grand Rapids,Baltimore,Reefer,927.2,475.9,0.23071244430835353,low,lane median
+TR-010122,2025-03-06,Kansas City,Fort Wayne,Dry Van,385.1,253.42,0.2903489100964888,low,lane median
+TR-010174,2025-03-06,Chattanooga,Mobile,Flatbed,307.9,3624.74,4.552291898642903,high,lane median
+TR-010186,2025-03-06,Austin,Columbia,Dry Van,1201.7,5426.96,2.227371621011014,high,lane median
+TR-010384,2025-03-07,New Orleans,Houston,Dry Van,242.8,1895.79,2.895054382317644,high,lane median
+TR-010386,2025-03-07,Philadelphia,Tucson,Dry Van,2725.3,1294.91,0.2706511687296805,low,lane median
+TR-010387,2025-03-07,Mobile,Amarillo,Dry Van,1125.8,11247.8,4.618050949722541,high,lane median
+TR-010594,2025-03-09,Mobile,Syracuse,Reefer,1133.5,924.04,0.3565673595478386,low,lane median
+TR-010600,2025-03-09,Greensboro,Charleston,Dry Van,284.9,126.54,0.18436864436987796,low,lane median
+TR-010636,2025-03-09,Tucson,Phoenix,Dry Van,275.1,201.35,0.3071029792012514,low,lane median
+TR-010863,2025-03-10,Toledo,Albuquerque,Reefer,1642.3,690.15,0.19922121965242992,low,lane median
+TR-010898,2025-03-11,Kansas City,Atlanta,Dry Van,491.8,464.41,0.4093918460275817,low,lane median
+TR-010916,2025-03-11,San Francisco,Tucson,Flatbed,682.8,4776.34,3.0146907461969366,high,equipment+band median
+TR-010955,2025-03-11,Green Bay,Houston,Dry Van,1167.0,10168.3,4.2523401935492275,high,lane median
+TR-010958,2025-03-11,Houston,Bakersfield,Dry Van,1473.0,1040.33,0.36243696033024214,low,lane median
+TR-010960,2025-03-11,Lubbock,San Antonio,Reefer,122.6,94.72,0.2520697556211396,low,lane median
+TR-011094,2025-03-12,Syracuse,Phoenix,Reefer,2778.7,1669.29,0.3072705181262542,low,lane median
+TR-011237,2025-03-13,Columbia,Lexington,Dry Van,228.3,103.15,0.18172773204807624,low,lane median
+TR-011344,2025-03-13,San Antonio,Columbia,Dry Van,1111.0,5316.68,2.398144739670228,high,lane median
+TR-011363,2025-03-14,Providence,New York,Dry Van,361.0,3760.75,4.797714380306425,high,lane median
+TR-011364,2025-03-14,Savannah,Charleston,Dry Van,190.5,148.72,0.32150780202162443,low,lane median
+TR-011398,2025-03-14,Columbia,San Antonio,Dry Van,1166.2,917.22,0.37449406016975806,low,lane median
+TR-011425,2025-03-14,Oklahoma City,Houston,Reefer,295.6,2353.6,2.796077344870399,high,equipment+band median
+TR-011484,2025-03-14,Baton Rouge,Dallas,Dry Van,168.4,1280.51,2.6980961426685393,high,lane median
+TR-011493,2025-03-14,Philadelphia,Raleigh,Dry Van,439.4,4081.58,4.145318821605394,high,lane median
+TR-011512,2025-03-14,Detroit,Richmond,Dry Van,650.4,556.26,0.44437998884946633,low,lane median
+TR-011577,2025-03-15,Richmond,Indianapolis,Dry Van,772.2,468.29,0.3007460893120675,low,lane median
+TR-011598,2025-03-15,Shreveport,Philadelphia,Dry Van,1367.4,592.81,0.22388373159981767,low,lane median
+TR-011671,2025-03-15,Detroit,Fort Wayne,Dry Van,221.1,1872.01,3.375678285749702,high,lane median
+TR-011714,2025-03-16,Fort Wayne,Oklahoma City,Reefer,1151.3,12454.19,4.619692396033623,high,lane median
+TR-011921,2025-03-17,Buffalo,Syracuse,Reefer,151.3,1472.66,3.357324570842841,high,lane median
+TR-011935,2025-03-17,Corpus Christi,Columbia,Reefer,977.9,7177.73,3.1418428909760574,high,lane median
+TR-011959,2025-03-17,Madison,Chattanooga,Reefer,549.5,404.58,0.3046786142038472,low,equipment+band median
+TR-012059,2025-03-18,Cincinnati,Los Angeles,Reefer,2151.7,885.88,0.20683343735050252,low,lane median
+TR-012185,2025-03-19,Bakersfield,Hartford,Dry Van,2829.8,25533.0,5.0238267025168035,high,lane median
+TR-012214,2025-03-19,Green Bay,Atlanta,Dry Van,775.0,4946.86,3.060636439332077,high,lane median
+TR-012268,2025-03-19,Dayton,Columbia,Reefer,466.7,2855.19,2.4504919562789156,high,lane median
+TR-012307,2025-03-19,Boston,Milwaukee,Reefer,1194.5,1067.6,0.42949391756889155,low,lane median
+TR-012448,2025-03-20,Washington,Kansas City,Dry Van,867.4,452.04,0.25580463840315654,low,equipment+band median
+TR-012517,2025-03-21,San Antonio,Phoenix,Reefer,1240.8,777.32,0.26603171816918897,low,lane median
+TR-012547,2025-03-21,Milwaukee,Albany,Reefer,1148.9,689.02,0.28216227004510364,low,lane median
+TR-012737,2025-03-22,Mobile,Richmond,Dry Van,952.2,692.79,0.3552569842656578,low,lane median
+TR-012923,2025-03-23,Charleston,Green Bay,Dry Van,959.1,656.75,0.3434492835280616,low,lane median
+TR-012925,2025-03-23,Madison,Grand Rapids,Reefer,257.1,140.36,0.19171771222575973,low,equipment+band median
+TR-012955,2025-03-24,Greensboro,Baton Rouge,Dry Van,810.6,569.32,0.328435402071553,low,lane median
+TR-013064,2025-03-24,Dallas,Toledo,Dry Van,1040.3,8549.6,3.91108410963521,high,lane median
+TR-013077,2025-03-24,New York,Tulsa,Reefer,1466.9,1246.04,0.4023883737848046,low,lane median
+TR-013198,2025-03-25,Bakersfield,Cincinnati,Flatbed,1999.4,1028.16,0.24405548035472488,low,equipment+band median
+TR-013419,2025-03-26,Columbia,Baton Rouge,Flatbed,711.6,5689.54,3.355829052181381,high,lane median
+TR-013512,2025-03-27,Lexington,Baton Rouge,Reefer,751.2,6621.13,3.4919656776099446,high,lane median
+TR-013848,2025-03-29,Phoenix,Baltimore,Dry Van,3127.2,16386.16,2.905784407530302,high,lane median
+TR-013876,2025-03-29,Columbia,Hartford,Dry Van,833.4,415.91,0.25103948343062554,low,lane median
+TR-013980,2025-03-30,Columbia,Kansas City,Reefer,652.7,411.96,0.26830517377676727,low,lane median
+TR-014084,2025-03-30,Oklahoma City,Baton Rouge,Dry Van,425.6,4285.27,4.265324001607262,high,lane median
+TR-014103,2025-03-30,Buffalo,Bakersfield,Dry Van,2536.4,846.42,0.19193015840404568,low,lane median
+TR-014113,2025-03-31,Reno,Oklahoma City,Dry Van,1459.0,6302.61,2.1837813183078705,high,lane median
+TR-014177,2025-03-31,Hartford,Memphis,Dry Van,1159.1,8401.52,3.6265463887352594,high,lane median
+TR-014315,2025-04-01,Mobile,Harrisburg,Flatbed,923.1,8631.33,4.247471436591491,high,equipment+band median
+TR-014612,2025-04-02,Cincinnati,Corpus Christi,Dry Van,931.7,7648.0,3.8792036913468024,high,lane median
+TR-014758,2025-04-03,Savannah,Greensboro,Dry Van,221.1,178.71,0.3205380366310239,low,equipment+band median
+TR-014786,2025-04-03,Dallas,St. Louis,Flatbed,617.9,7106.91,4.95682591494277,high,equipment+band median
+TR-014991,2025-04-05,Los Angeles,Phoenix,Reefer,93.9,63.36,0.2057336442835452,low,lane median
+TR-015021,2025-04-05,Syracuse,Richmond,Reefer,382.8,242.29,0.25419010871058384,low,lane median
+TR-015037,2025-04-05,Mobile,Savannah,Dry Van,439.5,2524.43,2.5439851085993657,high,lane median
+TR-015156,2025-04-06,El Paso,Detroit,Dry Van,1866.5,731.82,0.2012100558743817,low,equipment+band median
+TR-015253,2025-04-06,Atlanta,Montgomery,Reefer,309.2,286.08,0.34266985245451775,low,lane median
+TR-015395,2025-04-07,Richmond,Louisville,Flatbed,685.5,328.37,0.2090690336349673,low,lane median
+TR-015478,2025-04-08,Columbia,Washington,Dry Van,542.8,3839.88,3.2199652059794155,high,lane median
+TR-015538,2025-04-08,Tulsa,Lubbock,Dry Van,460.6,3271.83,2.9398331373546656,high,lane median
+TR-015559,2025-04-08,Albany,Richmond,Reefer,606.3,312.19,0.22519086316171164,low,lane median
+TR-015612,2025-04-08,Tucson,Lubbock,Dry Van,960.0,702.61,0.35198201287622133,low,lane median
+TR-015749,2025-04-09,Lexington,Phoenix,Dry Van,2205.5,1006.74,0.24449703310695958,low,lane median
+TR-015897,2025-04-10,New Orleans,Baton Rouge,Dry Van,174.5,1441.44,2.9266620443907967,high,lane median
+TR-015954,2025-04-11,Montgomery,Raleigh,Dry Van,675.2,4874.66,3.3205702302882902,high,lane median
+TR-015989,2025-04-11,Fort Wayne,Lexington,Flatbed,369.3,314.73,0.3447490431932373,low,lane median
+TR-016041,2025-04-11,Las Vegas,Mobile,Dry Van,1826.7,1193.79,0.33537764404037324,low,equipment+band median
+TR-016104,2025-04-12,Mobile,Memphis,Dry Van,327.2,3678.14,4.4988117611505904,high,lane median
+TR-016128,2025-04-12,Albuquerque,Atlanta,Dry Van,1580.8,927.08,0.2982027062803174,low,lane median
+TR-016265,2025-04-13,Albany,Baton Rouge,Dry Van,1714.3,11408.87,3.6137183719244,high,lane median
+TR-016400,2025-04-14,Salt Lake City,Hartford,Flatbed,2618.1,1211.76,0.23253208135843817,low,equipment+band median
+TR-016644,2025-04-15,Toledo,Jacksonville,Reefer,789.6,570.06,0.3073726598382884,low,lane median
+TR-016709,2025-04-16,Lexington,Cincinnati,Dry Van,124.7,1179.06,3.583001756189334,high,lane median
+TR-016760,2025-04-16,Baton Rouge,Oklahoma City,Reefer,433.0,246.8,0.2218734716025336,low,lane median
+TR-016926,2025-04-17,Lexington,Phoenix,Dry Van,2189.0,1741.73,0.42618523714692436,low,lane median
+TR-017014,2025-04-17,Baton Rouge,Salt Lake City,Dry Van,1448.3,11311.81,3.903206330634262,high,lane median
+TR-017024,2025-04-17,Indianapolis,Amarillo,Reefer,1100.7,866.41,0.3316779055891632,low,lane median
+TR-017071,2025-04-18,Toledo,Dayton,Flatbed,201.5,2609.34,4.723206221004216,high,lane median
+TR-017081,2025-04-18,Grand Rapids,Memphis,Dry Van,669.5,318.08,0.23431785062523078,low,lane median
+TR-017208,2025-04-19,San Antonio,Memphis,Dry Van,782.8,4002.84,2.31501203954167,high,lane median
+TR-017372,2025-04-20,Reno,Philadelphia,Reefer,2777.6,23662.71,4.142078805918888,high,lane median
+TR-017385,2025-04-20,Fresno,Memphis,Flatbed,2015.3,13847.57,3.2351510760662476,high,lane median
+TR-017603,2025-04-21,Fort Wayne,Philadelphia,Flatbed,807.7,328.89,0.18639313152780954,low,lane median
+TR-017709,2025-04-22,Mobile,Bakersfield,Flatbed,1946.7,12750.46,3.108525057463646,high,equipment+band median
+TR-017764,2025-04-22,Greensboro,Phoenix,Reefer,2295.4,16841.6,3.530667159626802,high,lane median
+TR-017795,2025-04-22,Richmond,Albany,Dry Van,590.0,3600.02,2.9169946665431863,high,lane median
+TR-017815,2025-04-22,Charleston,Kansas City,Dry Van,855.0,409.48,0.22566597208890246,low,lane median
+TR-017824,2025-04-22,Memphis,Toledo,Dry Van,621.3,332.23,0.2496676706349776,low,lane median
+TR-017835,2025-04-22,Kansas City,Milwaukee,Dry Van,179.4,1663.0,3.531312809778169,high,lane median
+TR-017929,2025-04-23,Buffalo,Lexington,Dry Van,563.2,4004.08,3.443401899558085,high,lane median
+TR-017964,2025-04-23,Greensboro,Milwaukee,Dry Van,480.1,5404.31,4.985057102649745,high,lane median
+TR-017982,2025-04-23,Richmond,Phoenix,Flatbed,2738.2,2035.77,0.3772240996008556,low,lane median
+TR-017987,2025-04-23,San Antonio,Columbia,Reefer,1146.3,968.87,0.37390840469650843,low,lane median
+TR-018016,2025-04-24,Green Bay,Richmond,Dry Van,851.0,6489.53,3.840877036630678,high,lane median
+TR-018071,2025-04-24,Madison,Memphis,Reefer,514.6,254.8,0.20489666991089212,low,equipment+band median
+TR-018109,2025-04-24,Lexington,Green Bay,Dry Van,620.2,6602.57,5.071674419265287,high,lane median
+TR-018163,2025-04-25,Mobile,Phoenix,Reefer,1912.9,1282.13,0.3153811805201013,low,lane median
+TR-018271,2025-04-25,El Paso,Columbia,Dry Van,1825.3,8708.21,2.4353938346948176,high,lane median
+TR-018296,2025-04-25,Reno,Savannah,Dry Van,2396.8,1535.71,0.37847764925070426,low,lane median
+TR-018417,2025-04-26,Reno,Phoenix,Dry Van,883.1,426.62,0.25263251565663913,low,lane median
+TR-018418,2025-04-26,Providence,Phoenix,Flatbed,3110.8,14934.48,2.3840160951578078,high,lane median
+TR-018560,2025-04-27,Dayton,Baton Rouge,Dry Van,880.2,342.22,0.18921032407460803,low,lane median
+TR-018570,2025-04-27,Little Rock,Nashville,Reefer,296.1,1972.95,2.407091022319327,high,lane median
+TR-018720,2025-04-28,Atlanta,Richmond,Dry Van,676.8,354.14,0.24694336589119487,low,lane median
+TR-018740,2025-04-28,Austin,Albuquerque,Flatbed,833.9,7777.29,4.2365839458623,high,equipment+band median
+TR-018815,2025-04-29,Milwaukee,Kansas City,Flatbed,177.6,157.76,0.31582827716977746,low,lane median
+TR-018893,2025-04-29,Charleston,Shreveport,Flatbed,836.3,379.59,0.20379747286295216,low,lane median
+TR-018895,2025-04-29,Milwaukee,Harrisburg,Dry Van,644.5,466.99,0.3540416088811657,low,lane median
+TR-018907,2025-04-29,Tulsa,Dallas,Dry Van,142.9,1220.72,3.091160667092799,high,lane median
+TR-018955,2025-04-29,Cincinnati,St. Louis,Dry Van,228.7,101.63,0.17430472289390436,low,lane median
+TR-019008,2025-04-30,Lubbock,Los Angeles,Reefer,1219.3,539.3,0.19573807676836388,low,lane median
+TR-019041,2025-04-30,Indianapolis,Cincinnati,Reefer,180.5,153.87,0.2897611927150627,low,lane median
+TR-019063,2025-04-30,Indianapolis,Philadelphia,Dry Van,1020.2,444.74,0.21980411508009373,low,lane median
+TR-019091,2025-04-30,Hartford,Little Rock,Dry Van,1374.0,9161.37,3.4643257572667583,high,lane median
+TR-019113,2025-05-01,Tucson,Bakersfield,Dry Van,327.7,182.42,0.22848969037025202,low,lane median
+TR-019396,2025-05-02,Richmond,Green Bay,Flatbed,826.0,675.83,0.38836307016723015,low,lane median
+TR-019517,2025-05-03,Los Angeles,Nashville,Flatbed,2021.0,16229.57,4.034532303496379,high,equipment+band median
+TR-019671,2025-05-04,Little Rock,St. Louis,Flatbed,382.7,210.11,0.22000089144112342,low,equipment+band median
+TR-019752,2025-05-04,Indianapolis,Dayton,Reefer,253.4,141.81,0.2018627037349089,low,lane median
+TR-019803,2025-05-05,Chattanooga,Fort Wayne,Dry Van,512.4,211.1,0.19122246913235114,low,lane median
+TR-019854,2025-05-05,Mobile,Richmond,Reefer,929.9,861.91,0.3902491263027343,low,lane median
+TR-019898,2025-05-05,El Paso,Lubbock,Dry Van,788.3,363.91,0.2099711238281084,low,lane median
+TR-019914,2025-05-06,Dallas,Cincinnati,Dry Van,698.4,4972.59,3.2744552022374904,high,lane median
+TR-020116,2025-05-07,Tucson,El Paso,Dry Van,305.0,184.26,0.2520575343680533,low,lane median
+TR-020177,2025-05-07,Grand Rapids,Greensboro,Flatbed,675.5,652.95,0.44816500398516945,low,lane median
+TR-020246,2025-05-08,Atlanta,Los Angeles,Reefer,2153.5,17772.53,3.873455731377635,high,lane median
+TR-020544,2025-05-09,Kansas City,Boston,Dry Van,1317.7,756.4,0.30120578151145705,low,lane median
+TR-020578,2025-05-10,Detroit,Phoenix,Flatbed,2355.2,2028.06,0.43261891519232476,low,equipment+band median
+TR-020759,2025-05-11,Richmond,Oklahoma City,Dry Van,1513.7,715.74,0.23889548754820564,low,lane median
+TR-020775,2025-05-11,New York,Hartford,Flatbed,140.2,173.03,0.41426798087819755,low,lane median
+TR-020874,2025-05-12,Nashville,Shreveport,Reefer,373.5,235.49,0.22442687110652668,low,lane median
+TR-020882,2025-05-12,Reno,Dayton,Dry Van,2004.1,12906.22,3.5930851387013734,high,lane median
+TR-020883,2025-05-12,Reno,Memphis,Flatbed,1869.7,14561.21,3.774279867499853,high,lane median
+TR-020991,2025-05-13,Greensboro,Madison,Dry Van,646.6,532.08,0.3982138019197903,low,lane median
+TR-021056,2025-05-13,Amarillo,Little Rock,Reefer,837.7,9350.63,4.442141910868541,high,lane median
+TR-021071,2025-05-13,Corpus Christi,Atlanta,Dry Van,843.7,4610.02,2.432794979771837,high,lane median
+TR-021084,2025-05-13,Las Vegas,Baton Rouge,Dry Van,1559.8,12569.71,4.230435991350195,high,lane median
+TR-021391,2025-05-15,Lexington,Bakersfield,Reefer,2102.3,1467.67,0.3413048175558501,low,lane median
+TR-021400,2025-05-15,Memphis,Mobile,Flatbed,330.4,247.37,0.286939601842014,low,lane median
+TR-021436,2025-05-16,Tucson,Birmingham,Dry Van,1824.3,1216.1,0.3484199806806373,low,lane median
+TR-021543,2025-05-16,Columbia,Tampa,Dry Van,578.6,5733.17,4.478933903397237,high,lane median
+TR-021578,2025-05-16,Montgomery,Corpus Christi,Dry Van,738.0,700.65,0.4716712551385628,low,lane median
+TR-021610,2025-05-17,Albuquerque,Milwaukee,Flatbed,1421.3,14079.19,4.701316201935037,high,equipment+band median
+TR-021703,2025-05-17,Buffalo,Shreveport,Flatbed,1151.5,11708.49,4.556600807674514,high,lane median
+TR-021796,2025-05-18,Detroit,Fort Wayne,Reefer,213.9,1794.15,2.9455670963015432,high,equipment+band median
+TR-021896,2025-05-18,New York,Raleigh,Dry Van,452.1,312.45,0.3182355786642175,low,lane median
+TR-021903,2025-05-18,Jacksonville,Baltimore,Reefer,926.1,7010.39,3.2177072471405825,high,lane median
+TR-021924,2025-05-19,Corpus Christi,Syracuse,Dry Van,1694.9,753.25,0.2348343559682476,low,lane median
+TR-021951,2025-05-19,Hartford,Oklahoma City,Reefer,1851.3,13863.47,3.3469922311570643,high,lane median
+TR-021969,2025-05-19,Jacksonville,Columbia,Dry Van,254.5,3220.66,5.051927842113725,high,lane median
+TR-022004,2025-05-19,San Francisco,Greensboro,Dry Van,2524.6,1604.14,0.33902167694658925,low,lane median
+TR-022061,2025-05-19,Amarillo,Mobile,Reefer,1105.6,539.41,0.2160471454691661,low,lane median
+TR-022255,2025-05-21,Greensboro,Cincinnati,Reefer,314.7,4445.23,5.0493878133252705,high,lane median
+TR-022459,2025-05-22,Salt Lake City,Mobile,Dry Van,1632.3,599.77,0.1919284589668956,low,lane median
+TR-022465,2025-05-22,Kansas City,Los Angeles,Dry Van,1909.1,709.46,0.19485917424967744,low,lane median
+TR-022474,2025-05-22,Harrisburg,Chattanooga,Flatbed,706.3,5280.41,3.221955105960455,high,equipment+band median
+TR-022499,2025-05-22,Amarillo,Albuquerque,Dry Van,408.7,4613.61,4.781366504965556,high,lane median
+TR-022522,2025-05-22,Salt Lake City,Green Bay,Dry Van,1732.9,698.43,0.2169662370758467,low,lane median
+TR-022549,2025-05-23,Los Angeles,Bakersfield,Dry Van,391.7,189.33,0.21223106866155192,low,lane median
+TR-022644,2025-05-23,Kansas City,Milwaukee,Reefer,196.1,179.58,0.328700090775349,low,lane median
+TR-022731,2025-05-24,Dallas,Grand Rapids,Reefer,1041.3,11895.25,4.956124295872778,high,equipment+band median
+TR-023044,2025-05-26,Phoenix,Philadelphia,Dry Van,2983.4,1047.91,0.20476592436277502,low,lane median
+TR-023295,2025-05-27,Washington,Chattanooga,Reefer,716.9,427.41,0.24671261520380336,low,equipment+band median
+TR-023305,2025-05-27,El Paso,Tulsa,Reefer,1071.1,7683.65,2.995376308692944,high,lane median
+TR-023370,2025-05-28,Amarillo,Lubbock,Flatbed,412.4,5308.96,4.956706510690916,high,lane median
+TR-023403,2025-05-28,Atlanta,San Antonio,Reefer,944.8,454.9,0.20462594911463414,low,lane median
+TR-023457,2025-05-28,Washington,Dayton,Flatbed,548.9,5965.1,4.683446289489258,high,equipment+band median
+TR-023486,2025-05-28,Chattanooga,Grand Rapids,Dry Van,683.7,498.67,0.3487925628138784,low,lane median
+TR-023560,2025-05-29,Reno,Jacksonville,Dry Van,2282.9,885.49,0.2114930648020393,low,lane median
+TR-023574,2025-05-29,Boston,Nashville,Flatbed,1223.5,10045.86,3.7432137060373853,high,lane median
+TR-023605,2025-05-29,San Francisco,Grand Rapids,Reefer,2308.9,930.2,0.19443861688845698,low,lane median
+TR-023762,2025-05-30,Green Bay,Mobile,Dry Van,1071.8,784.85,0.3708970690465365,low,lane median
+TR-023776,2025-05-30,Kansas City,Reno,Dry Van,1678.0,751.94,0.23833030691386686,low,lane median
+TR-023803,2025-05-30,Amarillo,Phoenix,Reefer,895.0,542.84,0.26193091693967785,low,lane median
+TR-023818,2025-05-30,Jacksonville,Savannah,Flatbed,218.4,2526.52,4.223866769039653,high,equipment+band median
+TR-023974,2025-05-31,Boston,Cincinnati,Flatbed,1119.8,9379.48,3.8538844419235057,high,lane median
+TR-024040,2025-06-01,Baton Rouge,Fort Wayne,Dry Van,1021.1,393.6,0.18553083294537998,low,lane median
+TR-024102,2025-06-01,Fort Wayne,El Paso,Reefer,1722.1,1024.2,0.27397127248107206,low,lane median
+TR-024128,2025-06-01,Greensboro,Baton Rouge,Dry Van,816.3,4621.66,2.6475752864557895,high,lane median
+TR-024131,2025-06-01,Lexington,Memphis,Dry Van,333.6,3631.52,4.641700089054446,high,lane median
+TR-024159,2025-06-01,Charleston,San Francisco,Flatbed,2813.6,1701.75,0.31785047783409304,low,lane median
+TR-024282,2025-06-02,Fresno,Tampa,Reefer,2276.5,1061.17,0.23229646385317382,low,lane median
+TR-024341,2025-06-02,Fort Wayne,Greensboro,Dry Van,489.1,381.54,0.3495917285501243,low,lane median
+TR-024401,2025-06-03,Toledo,Mobile,Dry Van,877.7,4802.35,2.655336634895939,high,lane median
+TR-024432,2025-06-03,Atlanta,Montgomery,Reefer,311.9,172.72,0.20509503183931918,low,lane median
+TR-024478,2025-06-03,Dallas,Atlanta,Flatbed,621.1,621.84,0.41411827609217206,low,lane median
+TR-024566,2025-06-04,Hartford,Mobile,Reefer,1264.3,12403.35,4.373179596057646,high,lane median
+TR-024590,2025-06-04,Chattanooga,Grand Rapids,Dry Van,659.5,309.35,0.2243132225330776,low,lane median
+TR-024598,2025-06-04,Detroit,Houston,Dry Van,1258.3,640.81,0.25875459879209456,low,lane median
+TR-024636,2025-06-04,Milwaukee,Fresno,Dry Van,2053.7,11729.5,3.0465006508437376,high,lane median
+TR-024673,2025-06-04,El Paso,Charleston,Flatbed,2028.3,10705.58,2.7189578740171227,high,lane median
+TR-024779,2025-06-05,Montgomery,Oklahoma City,Reefer,869.1,8198.5,3.970260855285684,high,lane median
+TR-024785,2025-06-05,New Orleans,Bakersfield,Dry Van,1656.1,1175.34,0.3689911364561342,low,lane median
+TR-024786,2025-06-05,Jacksonville,Corpus Christi,Dry Van,833.7,6362.14,3.6029619670168973,high,lane median
+TR-024829,2025-06-05,Nashville,Oklahoma City,Dry Van,758.5,5664.56,3.34121436065814,high,lane median
+TR-025173,2025-06-08,Toledo,Baltimore,Dry Van,806.2,5812.47,3.519974527857881,high,lane median
+TR-025178,2025-06-08,New York,Jacksonville,Dry Van,949.4,5505.06,2.891721303953258,high,lane median
+TR-025526,2025-06-10,Hartford,Philadelphia,Reefer,70.0,579.9,2.6187739848632354,high,lane median
+TR-025655,2025-06-11,Greensboro,Lubbock,Reefer,1240.6,11224.33,3.964775062656251,high,lane median
+TR-025799,2025-06-12,Albany,Reno,Dry Van,2894.3,969.83,0.191806846146338,low,lane median
+TR-025800,2025-06-12,Indianapolis,Buffalo,Dry Van,684.6,4396.72,3.062597569709824,high,lane median
+TR-025885,2025-06-12,Fort Wayne,Atlanta,Reefer,538.9,329.96,0.24865832685218098,low,lane median
+TR-026011,2025-06-13,Richmond,Fresno,Dry Van,2792.2,13432.05,2.6338750773076436,high,lane median
+TR-026202,2025-06-15,Albany,Shreveport,Dry Van,1649.8,10402.19,3.185131895222272,high,lane median
+TR-026236,2025-06-15,Charleston,Phoenix,Dry Van,2552.5,23580.42,4.879612496002729,high,lane median
+TR-026437,2025-06-16,Lubbock,Memphis,Dry Van,841.4,6007.57,3.3070245745647426,high,lane median
+TR-026575,2025-06-17,Tampa,Detroit,Reefer,1253.0,605.83,0.2201364813001791,low,equipment+band median
+TR-026643,2025-06-17,Fresno,Savannah,Dry Van,2571.0,11700.83,2.3747962147299195,high,lane median
+TR-026687,2025-06-17,Lexington,Providence,Dry Van,1022.1,472.85,0.2347285078809689,low,lane median
+TR-026810,2025-06-18,Tampa,Little Rock,Reefer,619.0,6625.8,4.429481904385904,high,equipment+band median
+TR-026947,2025-06-19,Columbia,Bakersfield,Dry Van,2187.2,11439.83,2.813190671762372,high,lane median
+TR-026991,2025-06-19,Syracuse,Amarillo,Dry Van,1860.8,9471.39,2.6578966681013028,high,lane median
+TR-026995,2025-06-19,Baton Rouge,Fort Wayne,Flatbed,982.3,9572.69,4.444117556489594,high,lane median
+TR-027101,2025-06-20,Grand Rapids,New Orleans,Dry Van,965.2,519.02,0.25342606301137854,low,lane median
+TR-027180,2025-06-20,Oklahoma City,Atlanta,Dry Van,872.2,737.32,0.40339277751962077,low,lane median
+TR-027320,2025-06-21,Lexington,Philadelphia,Dry Van,808.7,7870.44,4.817979242556398,high,lane median
+TR-027381,2025-06-21,Oklahoma City,New York,Dry Van,1713.2,10809.73,3.2679381993373586,high,lane median
+TR-027388,2025-06-21,St. Louis,Reno,Dry Van,1823.4,14628.56,4.141718815137944,high,lane median
+TR-027396,2025-06-22,Washington,Green Bay,Reefer,787.3,772.55,0.40606130283312775,low,equipment+band median
+TR-027472,2025-06-22,Baton Rouge,Columbia,Dry Van,715.9,654.01,0.41879619675556085,low,lane median
+TR-027510,2025-06-22,Corpus Christi,Memphis,Dry Van,727.0,5472.77,3.307749202365177,high,lane median
+TR-027615,2025-06-23,El Paso,Cincinnati,Flatbed,1615.7,13875.07,3.9655738099863425,high,lane median
+TR-027639,2025-06-23,Bakersfield,Lexington,Dry Van,2096.5,854.19,0.21597603288989803,low,lane median
+TR-027685,2025-06-23,Greensboro,Baton Rouge,Dry Van,787.7,341.54,0.2027593316200073,low,lane median
+TR-027813,2025-06-24,Bakersfield,Fresno,Flatbed,228.6,2083.66,3.3820458083524554,high,lane median
+TR-027836,2025-06-24,Richmond,Phoenix,Dry Van,2651.3,12021.48,2.484668052322297,high,lane median
+TR-027841,2025-06-24,Baton Rouge,Phoenix,Dry Van,1688.9,704.57,0.21487451408464922,low,lane median
+TR-027970,2025-06-25,Buffalo,Boston,Reefer,589.9,7597.52,5.440527831855851,high,lane median
+TR-028013,2025-06-25,Montgomery,Houston,Reefer,604.3,7773.37,5.074986221817554,high,lane median
+TR-028095,2025-06-26,Columbia,Lubbock,Reefer,1209.2,1286.37,0.4612837662153775,low,lane median
+TR-028216,2025-06-27,Washington,San Antonio,Dry Van,1613.7,9397.64,2.890844956577722,high,lane median
+TR-028220,2025-06-27,Tucson,Raleigh,Dry Van,2423.3,22755.66,4.906171572830191,high,lane median
+TR-028544,2025-06-29,Atlanta,Hartford,Flatbed,997.2,9195.27,4.211576392373404,high,lane median
+TR-028598,2025-06-29,Richmond,Shreveport,Reefer,1106.1,11276.81,4.375729476291716,high,lane median
+TR-028700,2025-06-30,Bakersfield,Buffalo,Dry Van,2396.0,15165.13,3.439602088837066,high,lane median
+TR-028750,2025-06-30,Memphis,Grand Rapids,Reefer,644.8,4288.85,2.829046886283728,high,lane median
+TR-028775,2025-06-30,St. Louis,Corpus Christi,Dry Van,897.7,372.08,0.1993174766593584,low,lane median
+TR-028780,2025-06-30,Phoenix,Tampa,Dry Van,2068.4,10498.93,2.7340450491126087,high,lane median
+TR-028783,2025-06-30,Baton Rouge,Buffalo,Reefer,1259.2,1097.31,0.4377027037919786,low,lane median
+TR-028814,2025-07-01,Mobile,Boston,Reefer,1397.3,10620.88,3.4742243254828264,high,lane median
+TR-028825,2025-07-01,Washington,Lubbock,Dry Van,1627.6,14317.13,4.5600952019198004,high,lane median
+TR-028996,2025-07-02,Amarillo,Greensboro,Flatbed,1440.3,1156.87,0.41012969700283225,low,lane median
+TR-029055,2025-07-02,Hartford,Tucson,Flatbed,2781.7,1984.68,0.36870322403011846,low,lane median
+TR-029056,2025-07-02,El Paso,Indianapolis,Dry Van,1450.0,667.86,0.23934451292165376,low,lane median
+TR-029058,2025-07-02,Milwaukee,Atlanta,Reefer,419.3,385.09,0.37993207841268106,low,lane median
+TR-029089,2025-07-02,Richmond,Baltimore,Flatbed,271.1,2986.67,3.963519296776174,high,lane median
+TR-029239,2025-07-03,Little Rock,Richmond,Dry Van,1034.4,452.41,0.21751079896499756,low,lane median
+TR-029268,2025-07-03,Philadelphia,Columbia,Dry Van,759.6,5397.96,3.5932737334986724,high,lane median
+TR-029278,2025-07-03,Lexington,Shreveport,Flatbed,635.4,7269.5,4.571356720021508,high,lane median
+TR-029286,2025-07-04,Baton Rouge,Philadelphia,Reefer,1517.5,13817.43,4.431118473562081,high,lane median
+TR-029459,2025-07-05,Los Angeles,Syracuse,Dry Van,2922.2,1106.28,0.22549023687040512,low,lane median
+TR-029467,2025-07-05,Buffalo,Kansas City,Flatbed,805.8,702.09,0.4411267842051466,low,lane median
+TR-029478,2025-07-05,Bakersfield,Milwaukee,Reefer,1844.1,1148.65,0.29986089181547526,low,lane median
+TR-029645,2025-07-06,Green Bay,Jacksonville,Reefer,1008.7,5358.34,2.304691130437194,high,equipment+band median
+TR-029664,2025-07-06,Indianapolis,Salt Lake City,Reefer,1568.2,11668.74,3.233056758317548,high,lane median
+TR-029790,2025-07-07,Savannah,Detroit,Dry Van,842.0,4351.72,2.5368793842655175,high,equipment+band median
+TR-029811,2025-07-07,New Orleans,Cincinnati,Dry Van,514.2,263.32,0.23158583389690698,low,lane median
+TR-029888,2025-07-07,Mobile,Cincinnati,Flatbed,458.6,3845.66,3.310011994146623,high,lane median
+TR-030016,2025-07-08,Hartford,Providence,Reefer,259.1,257.56,0.3490856194271691,low,equipment+band median
+TR-030247,2025-07-10,Cincinnati,Albany,Dry Van,1110.8,9195.08,4.294953059896556,high,lane median
+TR-030282,2025-07-10,Charleston,Greensboro,Reefer,262.4,1962.96,2.701464306347668,high,lane median
+TR-030321,2025-07-10,El Paso,Dayton,Dry Van,1691.6,768.57,0.23885042592172323,low,lane median
+TR-030342,2025-07-10,Atlanta,Reno,Reefer,2086.4,975.29,0.22887315465201422,low,lane median
+TR-030511,2025-07-11,Cincinnati,Nashville,Reefer,193.4,1358.99,2.354248364909952,high,lane median
+TR-030554,2025-07-11,Nashville,Dayton,Flatbed,429.9,396.96,0.37001172122434295,low,equipment+band median
+TR-030706,2025-07-12,Hartford,New York,Dry Van,114.4,59.68,0.1945511854126253,low,lane median
+TR-030750,2025-07-13,Philadelphia,Louisville,Dry Van,947.0,4795.16,2.4635493806621627,high,lane median
+TR-030892,2025-07-13,Montgomery,Memphis,Dry Van,404.2,3108.39,3.1783010700894474,high,lane median
+TR-031019,2025-07-14,Lexington,Bakersfield,Dry Van,2107.3,926.82,0.23632768521066097,low,lane median
+TR-031131,2025-07-15,Dayton,Baltimore,Dry Van,819.7,5061.61,2.9558500022187535,high,lane median
+TR-031202,2025-07-15,El Paso,Kansas City,Dry Van,1362.6,9445.95,3.378177191049798,high,lane median
+TR-031260,2025-07-16,Oklahoma City,Baltimore,Reefer,1747.7,19042.39,4.90085141099666,high,lane median
+TR-031294,2025-07-16,Montgomery,Providence,Dry Van,1202.4,804.91,0.34864582043265924,low,lane median
+TR-031303,2025-07-16,Milwaukee,Dallas,Flatbed,778.6,4358.6,2.4125352148736883,high,equipment+band median
+TR-031333,2025-07-16,Louisville,Syracuse,Dry Van,796.8,5970.35,3.8504272420070786,high,lane median
+TR-031461,2025-07-17,Madison,San Antonio,Dry Van,1155.6,10965.67,4.562465979837764,high,lane median
+TR-031620,2025-07-18,Albuquerque,Kansas City,Dry Van,1219.7,1025.42,0.43473017478149256,low,lane median
+TR-031730,2025-07-19,Milwaukee,Grand Rapids,Dry Van,341.6,167.63,0.21086152331437616,low,lane median
+TR-031746,2025-07-19,Milwaukee,Hartford,Reefer,1048.1,573.13,0.25402903278676825,low,lane median
+TR-031788,2025-07-19,Madison,San Francisco,Dry Van,2021.3,1398.67,0.36970738273876225,low,lane median
+TR-031963,2025-07-20,Columbia,Reno,Flatbed,2254.9,858.34,0.1996928213326489,low,lane median
+TR-032085,2025-07-21,Nashville,Amarillo,Reefer,1115.9,7417.99,2.7668749703517097,high,lane median
+TR-032353,2025-07-23,Phoenix,Nashville,Dry Van,1998.0,16951.43,4.470878381794683,high,lane median
+TR-032460,2025-07-24,Charleston,Lubbock,Dry Van,1424.2,12550.02,4.446502187049647,high,lane median
+TR-032580,2025-07-24,Baton Rouge,San Antonio,Flatbed,422.8,252.03,0.24433935516031677,low,lane median
+TR-032678,2025-07-25,Dallas,Baltimore,Dry Van,1547.6,13435.73,4.34612090223685,high,lane median
+TR-032679,2025-07-25,El Paso,Savannah,Dry Van,1870.5,10182.59,2.869950243348299,high,lane median
+TR-032850,2025-07-26,Memphis,Albany,Reefer,1289.4,1197.41,0.43452372336290396,low,lane median
+TR-032869,2025-07-26,Grand Rapids,Cincinnati,Reefer,528.5,3288.98,2.427000746704729,high,lane median
+TR-032878,2025-07-26,Amarillo,Raleigh,Flatbed,1791.7,8768.95,2.3227894687044186,high,equipment+band median
+TR-032946,2025-07-27,Tulsa,Houston,Dry Van,238.1,181.52,0.29536936582694145,low,lane median
+TR-033039,2025-07-27,Raleigh,Fort Wayne,Reefer,706.8,7607.75,4.9903992990186445,high,lane median
+TR-033061,2025-07-27,Greensboro,Grand Rapids,Flatbed,640.5,282.54,0.2055199353446503,low,lane median
+TR-033075,2025-07-27,Mobile,Phoenix,Reefer,1880.0,17333.65,4.338385633451672,high,lane median
+TR-033087,2025-07-28,Oklahoma City,Hartford,Flatbed,1819.2,11117.85,2.7599311860093105,high,lane median
+TR-033119,2025-07-28,Toledo,New York,Flatbed,688.8,589.77,0.36900358466557354,low,equipment+band median
+TR-033233,2025-07-29,Baton Rouge,Albany,Dry Van,1759.5,9454.94,2.885230618320238,high,lane median
+TR-033257,2025-07-29,Albuquerque,Bakersfield,Dry Van,524.7,237.05,0.20092406663392115,low,lane median
+TR-033274,2025-07-29,Tucson,Montgomery,Dry Van,1848.1,11700.79,3.3613574562656554,high,lane median
+TR-033305,2025-07-29,New York,Nashville,Dry Van,1005.1,6289.74,2.9708440264299822,high,lane median
+TR-033312,2025-07-29,Los Angeles,Mobile,Dry Van,1945.6,11663.11,3.016142092930621,high,lane median
+TR-033550,2025-07-30,Phoenix,Madison,Dry Van,1990.3,1398.59,0.37360769770226493,low,lane median
+TR-033586,2025-07-31,Fresno,Los Angeles,Dry Van,416.2,171.28,0.18378584478056262,low,lane median
+TR-033647,2025-07-31,Memphis,Savannah,Dry Van,536.0,3325.09,2.788295488009045,high,lane median
+TR-033770,2025-08-01,Milwaukee,Fort Wayne,Reefer,265.3,236.48,0.3393087226990412,low,lane median
+TR-034058,2025-08-03,Little Rock,Oklahoma City,Reefer,478.6,238.78,0.18847319163943235,low,lane median
+TR-034288,2025-08-04,Jacksonville,Oklahoma City,Dry Van,992.4,9535.05,4.476529966829044,high,lane median
+TR-034344,2025-08-04,Louisville,Cincinnati,Dry Van,70.0,82.38,0.40782892301165174,low,lane median
+TR-034367,2025-08-04,Oklahoma City,Mobile,Flatbed,724.2,338.67,0.19793512404932298,low,lane median
+TR-034374,2025-08-05,New York,Tulsa,Dry Van,1444.5,7603.41,2.6771880124357867,high,lane median
+TR-034418,2025-08-05,Dayton,Raleigh,Flatbed,650.8,349.06,0.2527296496728569,low,lane median
+TR-034474,2025-08-05,Austin,Lexington,Dry Van,1170.0,7436.41,3.0951073636928625,high,lane median
+TR-034515,2025-08-05,Oklahoma City,Montgomery,Dry Van,896.7,387.41,0.19680388744761776,low,lane median
+TR-034535,2025-08-05,Lexington,Syracuse,Reefer,703.2,682.59,0.4150612990877046,low,lane median
+TR-034584,2025-08-06,Atlanta,Fresno,Dry Van,2242.0,18972.15,4.542172118031487,high,lane median
+TR-034654,2025-08-06,Tulsa,Lexington,Reefer,714.5,5683.71,3.133490379949328,high,lane median
+TR-034753,2025-08-07,Washington,Bakersfield,Reefer,2565.3,1830.62,0.38721737257827316,low,lane median
+TR-034934,2025-08-08,Shreveport,Columbia,Reefer,644.8,650.18,0.4061651103775555,low,lane median
+TR-034941,2025-08-08,Kansas City,Mobile,Dry Van,654.6,337.03,0.23896207352544754,low,lane median
+TR-035015,2025-08-09,Syracuse,Oklahoma City,Flatbed,1638.5,1056.79,0.3102915442824142,low,lane median
+TR-035023,2025-08-09,Charleston,Richmond,Reefer,387.4,3901.56,3.9959899478077188,high,lane median
+TR-035103,2025-08-09,San Francisco,Baton Rouge,Dry Van,2052.0,795.36,0.2101193845298964,low,lane median
+TR-035197,2025-08-10,Amarillo,Fresno,Reefer,1031.1,5553.52,2.2858146309430287,high,lane median
+TR-035209,2025-08-10,Washington,Cincinnati,Dry Van,649.3,3882.23,2.726968430924444,high,lane median
+TR-035228,2025-08-10,Nashville,Charleston,Flatbed,564.7,268.64,0.20501891802113678,low,equipment+band median
+TR-035282,2025-08-11,Atlanta,Baton Rouge,Flatbed,575.9,305.68,0.22874994183585343,low,equipment+band median
+TR-035298,2025-08-11,Montgomery,Kansas City,Reefer,749.2,4651.57,2.4501289043187913,high,lane median
+TR-035372,2025-08-11,Nashville,Tampa,Flatbed,593.1,6014.82,4.370546621110086,high,equipment+band median
+TR-035450,2025-08-12,Syracuse,Tulsa,Dry Van,1343.8,753.64,0.2969662366684516,low,lane median
+TR-035469,2025-08-12,Lexington,Fresno,Dry Van,2305.9,17742.34,4.1386269605631725,high,lane median
+TR-035476,2025-08-12,Bakersfield,New York,Reefer,2832.5,1345.5,0.23663479616708913,low,lane median
+TR-035524,2025-08-12,Los Angeles,Mobile,Dry Van,1971.1,12284.47,3.13573064054193,high,lane median
+TR-035579,2025-08-13,Las Vegas,Bakersfield,Dry Van,111.4,822.99,2.6646041982084787,high,lane median
+TR-035590,2025-08-13,Oklahoma City,Mobile,Dry Van,735.2,302.81,0.18433840331962498,low,lane median
+TR-035834,2025-08-14,Green Bay,Amarillo,Reefer,1384.6,11797.79,3.8233840832462413,high,lane median
+TR-035905,2025-08-15,Nashville,Hartford,Dry Van,1082.9,8904.72,4.0995349818391436,high,lane median
+TR-035980,2025-08-15,Chattanooga,Kansas City,Dry Van,436.5,397.3,0.3855452335179908,low,lane median
+TR-035999,2025-08-15,Richmond,Milwaukee,Dry Van,770.9,6767.41,4.237940508321117,high,lane median
+TR-036101,2025-08-16,Providence,Columbia,Dry Van,936.6,474.97,0.2579921919945396,low,lane median
+TR-036174,2025-08-17,Nashville,Oklahoma City,Reefer,774.1,590.4,0.31199546551893526,low,lane median
+TR-036337,2025-08-18,Louisville,San Antonio,Dry Van,953.3,7005.3,3.475355465254341,high,lane median
+TR-036371,2025-08-18,Jacksonville,Shreveport,Dry Van,541.4,5474.99,4.42575548097729,high,lane median
+TR-036392,2025-08-18,Houston,Tucson,Reefer,1280.7,9127.43,3.072655787354958,high,lane median
+TR-036598,2025-08-19,Buffalo,Syracuse,Flatbed,142.3,1233.19,3.364669895192561,high,lane median
+TR-036610,2025-08-20,Chattanooga,Atlanta,Reefer,98.4,1386.42,4.281616993180354,high,lane median
+TR-036616,2025-08-20,Philadelphia,Richmond,Flatbed,295.9,2104.27,2.830846882700525,high,lane median
+TR-036644,2025-08-20,Dayton,Mobile,Dry Van,696.0,342.72,0.23555432910200974,low,lane median
+TR-036655,2025-08-20,Los Angeles,Columbia,Dry Van,2328.0,1098.68,0.2593225408658844,low,lane median
+TR-036680,2025-08-20,El Paso,Greensboro,Dry Van,1813.7,11839.2,3.4299493128204093,high,lane median
+TR-036924,2025-08-21,Philadelphia,Harrisburg,Dry Van,344.5,249.52,0.3095086283913331,low,lane median
+TR-036930,2025-08-21,Kansas City,Phoenix,Dry Van,1894.0,14362.88,4.1088930705741005,high,lane median
+TR-036953,2025-08-22,Greensboro,Tulsa,Reefer,813.6,664.28,0.33211005105361835,low,lane median
+TR-036961,2025-08-22,Baton Rouge,Phoenix,Reefer,1641.0,1109.67,0.3003755353178919,low,lane median
+TR-037174,2025-08-23,Albuquerque,Madison,Flatbed,1327.4,11981.0,4.2836975813332785,high,equipment+band median
+TR-037201,2025-08-23,Milwaukee,Richmond,Flatbed,766.9,494.37,0.2911334893502906,low,lane median
+TR-037234,2025-08-23,Tucson,Phoenix,Dry Van,274.0,2662.69,4.077491181201135,high,lane median
+TR-037314,2025-08-24,Philadelphia,Savannah,Dry Van,759.6,509.3,0.3298159220285201,low,lane median
+TR-037362,2025-08-24,New Orleans,Birmingham,Dry Van,406.5,2437.64,2.4072502654843517,high,lane median
+TR-037427,2025-08-25,Las Vegas,Baton Rouge,Dry Van,1552.6,633.84,0.21431316368698586,low,lane median
+TR-037750,2025-08-27,New York,Richmond,Dry Van,259.3,240.18,0.39505575628819817,low,lane median
+TR-037765,2025-08-27,Phoenix,Syracuse,Dry Van,2810.9,24294.98,4.943719295688722,high,lane median
+TR-037876,2025-08-28,Albany,Dallas,Dry Van,1750.1,929.34,0.2873455840976347,low,lane median
+TR-037897,2025-08-28,Oklahoma City,Green Bay,Dry Van,1273.8,784.94,0.3077182007104662,low,lane median
+TR-037933,2025-08-28,Chattanooga,Lexington,Dry Van,224.4,1497.36,2.5879247490809183,high,lane median
+TR-037944,2025-08-28,Albany,Green Bay,Dry Van,978.6,4845.77,2.555671827645783,high,lane median
+TR-037963,2025-08-28,San Francisco,Atlanta,Dry Van,2287.0,13409.18,3.014261937025436,high,lane median
+TR-038001,2025-08-28,Toledo,Shreveport,Reefer,892.1,566.92,0.2779575982227256,low,lane median
+TR-038045,2025-08-29,Baton Rouge,Richmond,Dry Van,1212.4,6964.45,2.8384420914671975,high,lane median
+TR-038243,2025-08-30,Columbia,Cincinnati,Dry Van,330.1,144.92,0.18471371276095905,low,lane median
+TR-038309,2025-08-30,Fort Wayne,Raleigh,Dry Van,697.4,551.31,0.38915928708730013,low,lane median
+TR-038329,2025-08-30,Los Angeles,Mobile,Dry Van,1978.9,1501.74,0.38182282255260125,low,lane median
+TR-038460,2025-08-31,San Antonio,Grand Rapids,Reefer,1352.0,7384.72,2.4637558296783,high,lane median
+TR-038591,2025-09-01,Greensboro,Jacksonville,Flatbed,365.7,170.36,0.18417261870617863,low,lane median
+TR-038710,2025-09-02,Hartford,Richmond,Reefer,334.8,309.15,0.3668248963455504,low,lane median
+TR-038772,2025-09-02,Houston,New York,Reefer,1543.2,11377.49,3.3567311895046763,high,equipment+band median
+TR-038803,2025-09-03,Columbia,Milwaukee,Flatbed,527.4,486.09,0.3920471012260654,low,lane median
+TR-038838,2025-09-03,Fort Wayne,Hartford,Dry Van,858.3,4931.28,2.8675133910405575,high,lane median
+TR-039292,2025-09-06,Indianapolis,Amarillo,Dry Van,1083.3,6295.71,2.7583631605151346,high,lane median
+TR-039307,2025-09-06,Dayton,Charleston,Dry Van,606.0,519.57,0.40489833854091706,low,lane median
+TR-039359,2025-09-06,Greensboro,Fort Wayne,Dry Van,460.7,394.42,0.3910142875107442,low,lane median
+TR-039363,2025-09-06,Tulsa,Bakersfield,Dry Van,1477.7,11684.7,3.977242962770403,high,lane median
+TR-039368,2025-09-06,Baton Rouge,Grand Rapids,Dry Van,1103.7,9250.6,4.101767154825409,high,lane median
+TR-039439,2025-09-07,Tucson,Houston,Dry Van,1292.0,7773.89,2.8836177593138466,high,lane median
+TR-039460,2025-09-07,Phoenix,Lexington,Dry Van,2217.9,10528.39,2.540149304881279,high,lane median
+TR-039480,2025-09-07,Syracuse,Indianapolis,Reefer,829.7,8354.94,4.368845930591447,high,equipment+band median
+TR-039514,2025-09-07,Cincinnati,Green Bay,Flatbed,593.2,3509.58,2.5069533741633294,high,lane median
+TR-039546,2025-09-07,Bakersfield,Memphis,Flatbed,1787.5,1477.09,0.3938774645537277,low,lane median
+TR-039559,2025-09-07,Cincinnati,Kansas City,Dry Van,346.4,198.16,0.2407347192046248,low,lane median
+TR-039612,2025-09-08,Greensboro,Chattanooga,Dry Van,289.2,2021.98,2.853779996625345,high,lane median
+TR-039656,2025-09-08,Fort Wayne,Tucson,Dry Van,1939.9,1039.33,0.28751817626120874,low,lane median
+TR-039677,2025-09-08,Oklahoma City,Indianapolis,Flatbed,848.9,758.12,0.3754662079841517,low,lane median
+TR-039785,2025-09-09,Green Bay,El Paso,Dry Van,1674.6,776.5,0.25397115337150344,low,lane median
+TR-039909,2025-09-10,Montgomery,Washington,Reefer,838.2,5795.79,3.012864407637602,high,lane median
+TR-040046,2025-09-10,Washington,Atlanta,Dry Van,688.3,3348.83,2.33692982962762,high,lane median
+TR-040049,2025-09-10,New York,Los Angeles,Flatbed,2887.9,1758.37,0.31454138862572134,low,lane median
+TR-040060,2025-09-10,Mobile,Tampa,Dry Van,327.0,3869.45,4.880884608807642,high,lane median
+TR-040080,2025-09-11,Tucson,Columbia,Flatbed,2046.7,9993.31,2.1657611043639946,high,lane median
+TR-040097,2025-09-11,Baltimore,Oklahoma City,Reefer,1760.3,20132.37,4.893354474130155,high,lane median
+TR-040159,2025-09-11,San Francisco,Shreveport,Dry Van,1950.8,12240.81,3.3408241623808,high,lane median
+TR-040172,2025-09-11,Montgomery,Fresno,Dry Van,2283.4,20361.89,4.606012362749682,high,lane median
+TR-040174,2025-09-11,Salt Lake City,Reno,Flatbed,521.0,244.05,0.2018748118249219,low,equipment+band median
+TR-040274,2025-09-12,Lubbock,New Orleans,Dry Van,581.3,352.31,0.2696782417099532,low,lane median
+TR-040300,2025-09-12,Raleigh,Fort Wayne,Reefer,704.6,461.77,0.3038496078603049,low,lane median
+TR-040323,2025-09-12,Montgomery,El Paso,Dry Van,1639.9,14949.25,4.674407018841732,high,lane median
+TR-040596,2025-09-14,Nashville,Buffalo,Reefer,814.3,733.39,0.40004384798437725,low,lane median
+TR-040601,2025-09-14,Fort Wayne,Phoenix,Dry Van,2210.6,808.74,0.19925476944136808,low,lane median
+TR-040620,2025-09-14,Hartford,Syracuse,Dry Van,403.2,3043.83,3.537985875624219,high,lane median
+TR-040679,2025-09-14,Jacksonville,Baton Rouge,Dry Van,575.6,4277.4,3.2876657037879733,high,lane median
+TR-040724,2025-09-15,Bakersfield,Tucson,Dry Van,331.4,3515.75,4.369709658402822,high,lane median
+TR-040775,2025-09-15,Oklahoma City,Jacksonville,Reefer,976.3,575.21,0.2514062970650055,low,lane median
+TR-040874,2025-09-16,Bakersfield,Baltimore,Reefer,2897.4,1843.92,0.3098422720956582,low,lane median
+TR-041089,2025-09-17,Fort Wayne,Lexington,Dry Van,354.9,3848.82,4.5872803985602255,high,lane median
+TR-041163,2025-09-18,Green Bay,Philadelphia,Reefer,946.1,885.17,0.42695362165167033,low,lane median
+TR-041307,2025-09-18,Columbia,Houston,Dry Van,847.3,405.1,0.22561206904186468,low,lane median
+TR-041368,2025-09-19,Houston,Fort Wayne,Dry Van,1044.3,432.04,0.2037974121459407,low,lane median
+TR-041721,2025-09-21,Shreveport,Memphis,Dry Van,324.1,244.71,0.31453601349260457,low,lane median
+TR-041987,2025-09-23,El Paso,Shreveport,Dry Van,1230.8,711.03,0.2879751467843948,low,lane median
+TR-042033,2025-09-23,Kansas City,Baton Rouge,Reefer,737.8,322.34,0.18137017552630302,low,lane median
+TR-042150,2025-09-24,Grand Rapids,Lubbock,Dry Van,1415.5,13026.22,4.631849994780495,high,lane median
+TR-042259,2025-09-24,New York,St. Louis,Dry Van,1028.1,681.3,0.3246548254988406,low,lane median
+TR-042302,2025-09-25,Nashville,Greensboro,Dry Van,371.1,349.14,0.3967101771009551,low,lane median
+TR-042354,2025-09-25,Chattanooga,Little Rock,Flatbed,363.4,3286.31,3.623762992080855,high,equipment+band median
+TR-042438,2025-09-26,Toledo,Austin,Dry Van,1445.9,7197.15,2.3470233802508793,high,lane median
+TR-042453,2025-09-26,Fort Wayne,Hartford,Dry Van,840.2,5949.01,3.533840358523602,high,lane median
+TR-042459,2025-09-26,Kansas City,Mobile,Dry Van,639.9,476.98,0.3459588762444832,low,lane median
+TR-042514,2025-09-26,Philadelphia,Tulsa,Flatbed,1497.7,1005.85,0.3187395379229342,low,equipment+band median
+TR-042646,2025-09-27,Boston,Phoenix,Dry Van,3183.8,13420.59,2.386865626430512,high,lane median
+TR-042736,2025-09-28,Jacksonville,Tucson,Dry Van,1943.0,12797.54,3.4563124840360246,high,lane median
+TR-042800,2025-09-28,Harrisburg,Tampa,Dry Van,1087.6,835.1,0.4112251937117334,low,lane median
+TR-042823,2025-09-28,Houston,Savannah,Reefer,862.6,759.15,0.3818234756642786,low,equipment+band median
+TR-042882,2025-09-29,San Antonio,Detroit,Dry Van,1460.5,13503.63,4.6160386167749525,high,lane median
+TR-042992,2025-09-29,Houston,Hartford,Dry Van,1667.1,10119.16,3.207479641666867,high,lane median
+TR-043069,2025-09-30,Tulsa,Oklahoma City,Dry Van,305.5,2610.3,3.223551554828151,high,lane median
+TR-043077,2025-09-30,Lexington,Charleston,Dry Van,436.3,2522.62,2.490142162597873,high,lane median
+TR-043102,2025-09-30,Fort Wayne,Albany,Reefer,874.4,7443.31,3.8233622731320622,high,lane median
+TR-043131,2025-09-30,Charleston,Nashville,Dry Van,568.0,4000.2,3.275815404598537,high,lane median
+TR-043185,2025-10-01,Fort Wayne,Atlanta,Reefer,548.4,6477.13,4.7966172319603695,high,lane median
+TR-043303,2025-10-01,Atlanta,Phoenix,Reefer,2083.1,13894.55,3.078647641584746,high,lane median
+TR-043385,2025-10-02,Lexington,Lubbock,Dry Van,1187.0,11696.44,4.691285433390041,high,lane median
+TR-043435,2025-10-02,New York,Detroit,Dry Van,704.9,574.1,0.3809861122006025,low,equipment+band median
+TR-043540,2025-10-03,Milwaukee,Bakersfield,Dry Van,1893.0,17514.11,4.822299722312089,high,lane median
+TR-043643,2025-10-04,Milwaukee,Baltimore,Dry Van,985.2,8236.26,4.155171245295414,high,lane median
+TR-043674,2025-10-04,Milwaukee,Los Angeles,Flatbed,2071.4,1274.95,0.3153920581733076,low,lane median
+TR-043691,2025-10-04,New York,Greensboro,Flatbed,693.1,548.16,0.348711419943816,low,lane median
+TR-043705,2025-10-04,New York,Austin,Reefer,1943.2,785.33,0.1894526696983434,low,lane median
+TR-043727,2025-10-04,Reno,Toledo,Dry Van,2117.6,8592.93,2.202894166809614,high,lane median
+TR-043887,2025-10-05,Shreveport,Baltimore,Reefer,1348.4,11052.72,3.428648983940129,high,lane median
+TR-043917,2025-10-05,Nashville,Dayton,Dry Van,424.2,4646.65,4.80282241925729,high,lane median
+TR-044015,2025-10-06,Atlanta,Richmond,Dry Van,663.0,337.89,0.2405163147644417,low,lane median
+TR-044162,2025-10-07,Baton Rouge,Detroit,Flatbed,1189.2,8425.34,3.218355627359742,high,equipment+band median
+TR-044176,2025-10-07,Raleigh,Milwaukee,Flatbed,796.6,463.05,0.25051205675591853,low,equipment+band median
+TR-044215,2025-10-07,Nashville,Tucson,Dry Van,1770.0,725.75,0.20959488621793007,low,lane median
+TR-044268,2025-10-08,Albany,Albuquerque,Dry Van,2492.6,14425.42,3.3271668389631035,high,lane median
+TR-044271,2025-10-08,Columbia,Kansas City,Reefer,652.1,313.15,0.20413892638509376,low,lane median
+TR-044287,2025-10-08,Mobile,Richmond,Dry Van,944.9,4729.66,2.444067885336713,high,lane median
+TR-044312,2025-10-08,Mobile,Houston,Dry Van,478.4,411.17,0.37644857032471846,low,lane median
+TR-044345,2025-10-08,Lexington,Albany,Dry Van,1040.0,10566.25,5.057288775599638,high,lane median
+TR-044414,2025-10-08,Memphis,Atlanta,Dry Van,242.4,2281.75,3.6825348052827005,high,lane median
+TR-044423,2025-10-08,Montgomery,Raleigh,Dry Van,679.7,4747.88,3.2127966469487066,high,lane median
+TR-044503,2025-10-09,Columbia,Shreveport,Dry Van,650.2,5511.27,3.902680020257861,high,lane median
+TR-044524,2025-10-09,Tampa,Mobile,Dry Van,310.0,2940.49,3.7888370871471806,high,lane median
+TR-044556,2025-10-09,Milwaukee,Greensboro,Dry Van,455.6,367.67,0.3616641770588376,low,lane median
+TR-044614,2025-10-10,Tampa,Mobile,Reefer,307.6,2094.59,2.333551450881576,high,lane median
+TR-044671,2025-10-10,Tampa,Baton Rouge,Dry Van,444.7,200.31,0.1889644833996724,low,lane median
+TR-044693,2025-10-10,New York,Milwaukee,Dry Van,914.1,362.69,0.19950046270152183,low,lane median
+TR-044891,2025-10-12,Shreveport,Cincinnati,Dry Van,546.7,432.52,0.35670878547863016,low,lane median
+TR-044983,2025-10-12,Richmond,Fort Wayne,Reefer,612.5,313.05,0.21406618397846466,low,lane median
+TR-045022,2025-10-12,Jacksonville,Reno,Flatbed,2304.8,1384.9,0.31603805714447375,low,lane median
+TR-045024,2025-10-12,Kansas City,Lexington,Reefer,433.4,3362.18,2.923105305028945,high,lane median
+TR-045060,2025-10-13,Raleigh,Columbia,Reefer,420.9,183.77,0.17791694267080047,low,lane median
+TR-045174,2025-10-13,Corpus Christi,Atlanta,Dry Van,832.1,7004.3,3.7478307272300344,high,lane median
+TR-045258,2025-10-14,Shreveport,Providence,Dry Van,1566.2,1068.71,0.34481316332136763,low,lane median
+TR-045286,2025-10-14,Providence,Baton Rouge,Dry Van,1590.7,9208.2,2.8734892532578926,high,lane median
+TR-045419,2025-10-15,Savannah,Dayton,Reefer,566.1,4350.23,3.17997951586933,high,equipment+band median
+TR-045425,2025-10-15,Mobile,Boston,Flatbed,1402.1,568.26,0.19134651702949676,low,lane median
+TR-045484,2025-10-15,Greensboro,Columbia,Dry Van,153.8,1971.21,4.7929735845947175,high,lane median
+TR-045555,2025-10-16,Reno,Columbia,Dry Van,2294.2,1687.37,0.4053466367090696,low,lane median
+TR-045774,2025-10-17,Kansas City,Green Bay,Dry Van,466.3,2389.43,2.326686446621326,high,lane median
+TR-045820,2025-10-18,Atlanta,Baltimore,Dry Van,940.4,9522.01,4.971638480604524,high,lane median
+TR-045834,2025-10-18,Amarillo,Greensboro,Reefer,1478.5,700.21,0.2094020325021877,low,lane median
+TR-045988,2025-10-19,Hartford,Fort Wayne,Flatbed,832.2,5308.55,2.8976751577329174,high,equipment+band median
+TR-045992,2025-10-19,Memphis,Cincinnati,Dry Van,243.8,203.4,0.3315373285115269,low,lane median
+TR-046063,2025-10-19,Tucson,Phoenix,Reefer,273.9,166.3,0.2336707567261654,low,lane median
+TR-046142,2025-10-20,Charleston,Baton Rouge,Reefer,939.7,752.15,0.3403963941070235,low,lane median
+TR-046174,2025-10-20,Philadelphia,El Paso,Dry Van,2490.9,880.13,0.19714492109506082,low,lane median
+TR-046179,2025-10-20,Philadelphia,Houston,Dry Van,1589.7,643.58,0.218084842915811,low,lane median
+TR-046214,2025-10-20,Columbia,Tucson,Flatbed,2023.4,17893.17,4.161426867524232,high,lane median
+TR-046260,2025-10-20,Hartford,Savannah,Dry Van,829.2,352.82,0.2048309206614088,low,lane median
+TR-046367,2025-10-21,Bakersfield,Columbia,Dry Van,2251.9,14403.14,3.426528074231841,high,lane median
+TR-046400,2025-10-21,Indianapolis,Madison,Dry Van,276.6,123.32,0.19434772910336798,low,lane median
+TR-046426,2025-10-21,Raleigh,Columbia,Dry Van,417.8,2970.76,3.11886716807432,high,lane median
+TR-046517,2025-10-22,Toledo,Albuquerque,Reefer,1684.3,14784.38,4.161292685620104,high,lane median
+TR-046583,2025-10-22,Columbia,Shreveport,Reefer,645.1,4892.72,2.872416663218074,high,lane median
+TR-046614,2025-10-23,Little Rock,Buffalo,Flatbed,1038.6,7151.41,3.2784590292779248,high,lane median
+TR-046668,2025-10-23,Albuquerque,Lexington,Dry Van,1643.6,9305.14,2.9783509582441927,high,lane median
+TR-046671,2025-10-23,Grand Rapids,Tucson,Dry Van,2021.2,849.97,0.22424737043965615,low,lane median
+TR-046720,2025-10-23,Syracuse,Raleigh,Flatbed,616.7,572.98,0.40041151723648216,low,equipment+band median
+TR-046731,2025-10-23,Kansas City,Atlanta,Dry Van,479.3,4635.85,4.19322432435005,high,lane median
+TR-046778,2025-10-24,Hartford,Atlanta,Dry Van,1001.8,537.57,0.2795216883150685,low,lane median
+TR-046916,2025-10-25,Bakersfield,Salt Lake City,Flatbed,274.4,193.34,0.2840287975733208,low,lane median
+TR-046980,2025-10-25,San Francisco,Green Bay,Reefer,2242.7,1955.15,0.42026434631681936,low,equipment+band median
+TR-047002,2025-10-25,Cincinnati,Memphis,Dry Van,223.4,232.16,0.4210639571465481,low,lane median
+TR-047299,2025-10-27,Boston,Bakersfield,Reefer,2979.1,19110.3,3.0801229072323766,high,lane median
+TR-047504,2025-10-29,Bakersfield,Montgomery,Reefer,2063.5,880.04,0.20361399272492922,low,lane median
+TR-047537,2025-10-29,Los Angeles,Richmond,Dry Van,2782.4,15003.55,2.9479536944901974,high,lane median
+TR-047539,2025-10-29,St. Louis,New York,Dry Van,1041.1,472.91,0.2365411095645219,low,lane median
+TR-047587,2025-10-29,Corpus Christi,Las Vegas,Flatbed,1383.3,11596.28,3.978596208709914,high,equipment+band median
+TR-047657,2025-10-30,Memphis,Philadelphia,Reefer,1125.7,552.14,0.23449038068779388,low,lane median
+TR-047662,2025-10-30,Phoenix,Oklahoma City,Dry Van,1261.3,8276.0,3.2888673410194014,high,lane median
+TR-047702,2025-10-30,Atlanta,Richmond,Flatbed,670.3,370.24,0.2433379552511438,low,lane median
+TR-047743,2025-10-30,Atlanta,Nashville,Reefer,136.8,104.38,0.23714139122720526,low,lane median
+TR-047796,2025-10-30,Memphis,Atlanta,Flatbed,239.2,227.15,0.34673020026746715,low,equipment+band median
+TR-047821,2025-10-30,Los Angeles,Little Rock,Reefer,1722.4,9939.89,2.6486654227290285,high,lane median
+TR-047840,2025-10-31,Corpus Christi,Madison,Dry Van,1139.5,772.61,0.32832620753150876,low,lane median
+TR-047899,2025-10-31,Syracuse,Grand Rapids,Dry Van,559.2,389.18,0.33932316949605446,low,lane median
+TR-047993,2025-10-31,Cincinnati,Mobile,Reefer,457.0,5561.19,4.672497651524736,high,equipment+band median

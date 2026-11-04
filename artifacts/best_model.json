@@ -1,0 +1,10 @@
+{
+  "model": "blend_lgbm_hierarchical",
+  "lgbm_params": {
+    "num_leaves": 7,
+    "n_estimators": 600
+  },
+  "half_life": 180,
+  "calibration": null,
+  "calibration_factor": 1.0
+}
